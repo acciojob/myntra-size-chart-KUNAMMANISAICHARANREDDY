@@ -1,2 +1,8 @@
 
-/* Your CSS Code here. */
+*{
+	border:1px soild black;
+	border-collapse:collapse;
+	padding:10px;
+	text-align:left;
+	width:100%;
+}
