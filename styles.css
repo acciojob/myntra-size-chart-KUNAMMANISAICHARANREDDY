@@ -1,8 +1,14 @@
-
-*{
-	border:1px soild black;
-	border-collapse:collapse;
-	padding:10px;
+table{
+	width:60%;
+	
+}
+th{
 	text-align:left;
-	width:100%;
+	
+}
+td{
+	text-align:right;
+}
+*{
+	padding:10px;
 }
